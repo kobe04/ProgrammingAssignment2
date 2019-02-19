@@ -1,4 +1,4 @@
-## These functions create a matrix, cache it and its inverse, and can compute the inverse of the 
+## These functions take a matrix, cache it and its inverse, and can compute the inverse of the 
 ## matrix or retrieve the computation from the cache.
 
 ## This function creates a cache for a matrix and for its inverse matrix.
